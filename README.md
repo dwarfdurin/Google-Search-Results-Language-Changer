@@ -1,7 +1,7 @@
 # Google-Search-Results-Language-Changer
 Google Search Results Language Changer
 
-Adds drop-down list to change search results languages in google.
+Adds drop-down list to change results languages in google search.
 
 Supports: Polish, English, German, Chinese.
 <br>*more to come on request if needed
